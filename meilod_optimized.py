@@ -2,10 +2,7 @@
 """
 Created on Mon Apr 20 12:40:28 2026
 
-@author: 22191
-
-MEILoD优化方案 - 融合两方案优势
-目标：>94%准确率
+@author: MarveenLee
 """
 
 import numpy as np
