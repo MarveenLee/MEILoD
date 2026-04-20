@@ -1,4 +1,4 @@
-https://data.mendeley.com/datasets/ydz48cby4t/1
+Dataset MEILoD comes from https://data.mendeley.com/datasets/ydz48cby4t/1
 
 MEILoD – Multimodal EMG–IMU Locomotion Dataset
 Published: 13 March 2026
